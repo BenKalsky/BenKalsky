@@ -17,7 +17,7 @@ Companies like **Reposify** (acquired by CrowdStrike), **Deci** (acquired by NVI
 
 ## Current Focus
 
-- 🔌 **AuraWorker** — WordPress management plugin (live on WordPress.org)
+- 🔌 **SiteAgent** — WordPress management plugin (live on WordPress.org)
 - 🛡️ **DeepClaw** — AI gateway monitoring SaaS
 - 🚗 **AutoMate** — CRM for automotive dealerships
 - 📈 **Pulse** — Analytics dashboard for agencies
