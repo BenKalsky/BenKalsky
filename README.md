@@ -9,7 +9,7 @@ We build, optimize, and scale WordPress infrastructure for startups and tech com
 🔧 **WordPress & WooCommerce** — Custom development, complex migrations, performance optimization  
 🚀 **Growth Engineering** — Conversion-focused websites, automation, and integrations  
 🤖 **AI & Automation** — Building tools that save agencies hours of manual work  
-📊 **Products** — Creator of [AuraWorker](https://wordpress.org/plugins/digitizer-site-worker/), [DeepClaw](https://deep-claw.com), and more
+📊 **Products** — Creator of [SiteAgent](https://wordpress.org/plugins/digitizer-site-worker/) for [Aura](https://my-aura.app), [DeepClaw](https://deep-claw.com), and more
 
 ## Notable Clients
 
@@ -19,7 +19,7 @@ Companies like **Reposify** (acquired by CrowdStrike), **Deci** (acquired by NVI
 
 - 🔌 **SiteAgent** — WordPress management plugin (live on WordPress.org)
 - 🛡️ **DeepClaw** — AI gateway monitoring SaaS
-- 🚗 **AutoMate** — CRM for automotive dealerships
+- 🚗 **AutoMate** — Vehicle inventory management for a car dealership
 - 📈 **Pulse** — Analytics dashboard for agencies
 
 ## Connect
