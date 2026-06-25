@@ -25,6 +25,6 @@ Companies like **Reposify** (acquired by CrowdStrike), **Deci** (acquired by NVI
 ## Connect
 
 [![Website](https://img.shields.io/badge/digitizer.co.il-af8fe2?style=flat&logo=google-chrome&logoColor=white)](https://www.digitizer.co.il)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benkalsky)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/benkalsky)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1491580/ben-kalsky)
 [![WordPress](https://img.shields.io/badge/WordPress-444140?style=flat&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/benkalsky)
